@@ -1,2 +1,6 @@
 car=com.fastcampus.ch3.diCopy2.SportCar
 engine=com.fastcampus.ch3.diCopy2.Engine
+
+car=com.fastcampus.practice.SportCar
+engine=com.fastcampus.practice.Engine
+
