@@ -35,6 +35,7 @@ public class HomeController {
 		System.out.println("servletAC.getBeanDefinitionCount() = " + servletAC.getBeanDefinitionCount());
 
 		System.out.println("servletAC.getParent()==rootAC = " + (servletAC.getParent() == rootAC)); // servletAC.getParent()==rootAC = true
+
 		return "home";
 	}
 }
